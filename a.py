@@ -2,9 +2,7 @@ def hello():
     print("This is some text")
 
 def sum(a,b):
-    c = a
-    d = b
-    return c+d
+    return a+b
 
 hello()
-sum(5,6)
+sum(17,29)
